@@ -2,12 +2,12 @@
 
 ### place files such like this.
 
-app.py
-templates/index.html
+  app.py
+  templates/index.html
 
 
 ### run in the terminal.
 
-export FLASK_APP=app.py
-export FLASK_ENV=development
-flask run
+  export FLASK_APP=app.py
+  export FLASK_ENV=development
+  flask run
