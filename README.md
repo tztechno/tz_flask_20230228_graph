@@ -13,3 +13,4 @@
 - flask run
 
 
+![image](newplot.png)
