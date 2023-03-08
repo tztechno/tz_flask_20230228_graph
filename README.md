@@ -12,5 +12,5 @@
 - export FLASK_ENV=development
 - flask run
 
-
+## view sample
 ![image](newplot.png)
